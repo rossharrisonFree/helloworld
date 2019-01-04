@@ -2,4 +2,4 @@
 # helloworld 2
 ======= test post-build
 
-test slack
+slack should now work!
